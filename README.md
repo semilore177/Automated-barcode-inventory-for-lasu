@@ -1,7 +1,5 @@
 # Automated-barcode-inventory-for-lasu
-Sure! Here's a complete write-up you can directly use for your `README.md` file:
 
----
 
 # 📦 Automated Barcode Reader
 
@@ -87,7 +85,3 @@ This project is licensed under the [MIT License](LICENSE).
 ### 🙌 Contributions
 
 Pull requests are welcome! If you have suggestions for improvements or bug fixes, feel free to fork the repo and open an issue or PR.
-
----
-
-Let me know if you'd like a version tailored for either **QuaggaJS** or **jsQR** specifically, or want a badge-based format (e.g., for GitHub stars, forks, etc.).
